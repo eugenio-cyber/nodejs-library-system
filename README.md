@@ -14,11 +14,11 @@
 
 ## 🏹 Qual o objetivo do projeto?
 
-O objetivo desse projeto...
+O objetivo desse projeto foi construir uma RESTful API de um Sistema de Biblioteca com JavaScript, NodeJS, ExpressJS além de ter feito conexão com um banco de dados. 
 
 ## 💻 Como usar?
 
-Para usar você...
+Para usar você vai precisar ter uma ferramenta cliente de API REST, como o Postman ou Insomnia para ultilizar e testar os métodos HTTP das requisições.
 
 ## 🛠️ Ferramentas utilizadas?
 
