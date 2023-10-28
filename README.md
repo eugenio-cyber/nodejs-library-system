@@ -1,16 +1,16 @@
 <h3 align="center">
  Sistema de Biblioteca
 </h3>
-  
-<br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
-  </p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
+</p>
+
 <br>
 
 ## 🔗 Quer acessar o projeto?
 
-[Não há link para este projeto]()
+Sem [link]() para acessar este projeto.
 
 ## 🏹 Qual o objetivo do projeto?
 
@@ -36,4 +36,4 @@ Para usar você vai precisar ter uma ferramenta cliente de API REST, como o Post
 
 ## 💬 Feedback
 
-Envie um email para esse endereço <eugenio3@email.com> para dar um feedback, sugerir alguma mudança ou dar uma opnião sobre o projeto.
+Envie um email para esse endereço <wesleyeugenio3@gmail.com> para dar um feedback, sugerir alguma mudança ou dar uma opnião sobre o projeto.
