@@ -10,7 +10,7 @@
 
 ## 🔗 Quer acessar o projeto?
 
-Sem [link]() para acessar este projeto.
+Não há [link]() para acessar o projeto.
 
 ## 🏹 Qual o objetivo do projeto?
 
@@ -27,12 +27,7 @@ Para usar você vai precisar ter uma ferramenta cliente de API REST, como o Post
   <img height=30 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img height=30 src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img height=30 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img height=30 src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
-
-## ⛏️ Recursos futuros:
-
-- [x] Projeto
 
 ## 💬 Feedback
 
